@@ -1,3 +1,3 @@
 # TestRepo
  
-Thiks is a readme.
+This is a readme.
